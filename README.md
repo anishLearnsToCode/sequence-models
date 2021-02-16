@@ -17,7 +17,7 @@ on Coursera. This is the fourth course.
 
 ## Week 1 - Recurrent Neural Networks
 - [__Quiz__ - Recurrent Neural Networks](week_1/quiz/quiz.md)
-- [__Programming Assignment__ - Building a Recurrent Neural Network Step By Step](week_1/)
+- [__Programming Assignment__ - Building a Recurrent Neural Network Step By Step](week_1/building-recurrent-nn-step-by-step/Building_a_Recurrent_Neural_Network_Step_by_Step_v3b.ipynb)
 - [__Programming Assignment__ - Dinosaur Island - Character Level Language Modelling](week_1/)
 - [__Programming Assignment__ - Jazz Improvisation with LSTM](week_1/)
 
