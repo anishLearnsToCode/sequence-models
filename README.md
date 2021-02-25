@@ -24,7 +24,7 @@ on Coursera. This is the fourth course.
 ## Week 2 - Natural Language Processing and Word Embeddings
 - [__Quiz__ - Natural Language Processing & Word Embeddings](week_2/nlp-word-embeddings-quiz/quiz.md)
 - [__Programming Assignment__ - Operations On Word Vectors - Debaising](week_2/word-vector-representation/Operations_on_word_vectors_v2a.ipynb)
-- [__Programming Assignment__ - Emojify](week_2/)
+- [__Programming Assignment__ - Emojify](week_2/emojify/Emojify_v2a.ipynb)
 
 ## Week 3 - Sequence Model & Attention Mechanism
 - [__Quiz__ - Sequence Models & Attention Mechanism](week_3/)
