@@ -22,8 +22,8 @@ on Coursera. This is the fourth course.
 - [__Programming Assignment__ - Jazz Improvisation with LSTM](week_1/jazz-improv-with-lstm/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
 
 ## Week 2 - Natural Language Processing and Word Embeddings
-- [__Quiz__ - Natural Language Processing & Word Embeddings](week_2/)
-- [__Programming Assignment__ - Operations On Word Vectors - Debaising](week_2/)
+- [__Quiz__ - Natural Language Processing & Word Embeddings](week_2/nlp-word-embeddings-quiz/quiz.md)
+- [__Programming Assignment__ - Operations On Word Vectors - Debaising](week_2/word-vector-representation/Operations_on_word_vectors_v2a.ipynb)
 - [__Programming Assignment__ - Emojify](week_2/)
 
 ## Week 3 - Sequence Model & Attention Mechanism
