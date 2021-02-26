@@ -29,7 +29,7 @@ on Coursera. This is the fourth course.
 ## Week 3 - Sequence Model & Attention Mechanism
 - [__Quiz__ - Sequence Models & Attention Mechanism](week_3/sequence-models-attn-mechanism-quiz/quiz.md)
 - [__Programming Assignment__ - Neural Machine Translation with Attention Mechanism](week_3/machine-translation/Neural_machine_translation_with_attention_v4a.ipynb)
-- [__Programming Assignment__ - Trigger Word Detection](week_3/trigger-word-detection/)
+- [__Programming Assignment__ - Trigger Word Detection](week_3/trigger-word-detection/Trigger_word_detection_v1a.ipynb)
 
-## 🎓 [Certificate](https://coursera.org/verify/)
+## 🎓 [Certificate](https://coursera.org/verify/PA9BDUHSNER9)
 ![certificate](assets/certificate.png)
