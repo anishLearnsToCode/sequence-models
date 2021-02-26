@@ -27,7 +27,7 @@ on Coursera. This is the fourth course.
 - [__Programming Assignment__ - Emojify](week_2/emojify/Emojify_v2a.ipynb)
 
 ## Week 3 - Sequence Model & Attention Mechanism
-- [__Quiz__ - Sequence Models & Attention Mechanism](week_3/)
+- [__Quiz__ - Sequence Models & Attention Mechanism](week_3/sequence-models-attn-mechanism-quiz/quiz.md)
 - [__Programming Assignment__ - Neural Machine Translation with Attention Mechanism](week_3/)
 - [__Programming Assignment__ - Trigger Word Detection](week_3/)
 
